@@ -72,7 +72,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-![](https://github.com/user-attachments/assets/5image653651d-ab1c-495e-bd2b-8941544c6f57)
+![image](https://github.com/user-attachments/assets/5image653651d-ab1c-495e-bd2b-8941544c6f57)
 
 ---
 
