@@ -72,8 +72,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-![image](https://github.com/user-attachments/assets/3e92e78c-5a18-49cd-9a5f-e47919e7122a)
-
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/1c9f6604-dc99-4807-be4e-fa13b6466d18" />
 
 ---
 
@@ -118,12 +117,11 @@ clk=0; J=0; K=0; rst=1;
 end
 endmodule
 
-
-
 ```
 #### SIMULATION OUTPUT
 
-![image](https://github.com/user-attachments/assets/9692747c-bb86-47b2-956a-bf0df9671d9e)
+<img width="1920" height="1080" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/a1568200-b5bb-49ab-8a3a-42fb375cbd58" />
+
 
 
 ---
